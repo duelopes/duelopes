@@ -14,4 +14,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=duelopes&show_icons=true&theme=highcontrast&hide_border=true&locale=en&layout=compact" alt="duelopes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duelopes&theme=highcontrast" alt="duelopes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duelopes&theme=highcontrast&hide_border=true&layout=compact" alt="duelopes" /></p>
