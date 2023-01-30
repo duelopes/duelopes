@@ -2,8 +2,6 @@
 
 <h3 align="center">UNESP - Universidade Estadual Paulista "Júlio de Mesquita Filho"</h3>
 
-<img src="http://github.com/duelopes/duelopes/leonardo-dicaprio-wolf-of-wall-street.gif">
-
 <h3 align="center">Redes sociais:</h3>
 <p align="center"><a href="https://linkedin.com/in/duelopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duelopes" height="30" width="40" /></a>
 <a href="https://instagram.com/edu_loliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edu_loliveira" height="30" width="40" /></a>
