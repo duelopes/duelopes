@@ -12,5 +12,5 @@
 
 <p align="center"><img src="https://github.com/duelopes/duelopes/blob/main/leonardo-dicaprio-wolf-of-wall-street.gif" width="300"/>  </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=duelopes&show_icons=true&theme=highcontrast&hide_border=true&locale=en&layout=compact" alt="duelopes"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duelopes&theme=highcontrast&hide_border=true&layout=compact" alt="duelopes" />  </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=duelopes&show_icons=true&theme=highcontrast&hide_border=true&locale=en&layout=compact" alt="duelopes"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=duelopes&theme=highcontrast&hide_border=true&layout=compact" alt="duelopes" />  </p>
 
